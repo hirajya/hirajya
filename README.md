@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rodney Lei Estrada</h1>
 
-<h3 align="left"> <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="20" height="26" style="display: inline-block; vertical-align: middle;"></a> Computer Science student specializing Machine Learning 
+<h3 align="left"> <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="22" height="26" style="display: inline-block; vertical-align: middle;"></a> Computer Science student specializing Machine Learning 
   from National University - Manila, Philippines</h3>
 
 
