@@ -13,7 +13,17 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-    <td><img src="https://github-readme-stats-nvz5.vercel.app/api/top-langs/?username=hirajya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hirajya&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+<div style="display: flex;">
+  <div style="flex: 50%; margin-right: 10px;">
+    <img src="https://github-readme-stats-nvz5.vercel.app/api/top-langs/?username=hirajya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+  <div style="flex: 50%; margin-left: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirajya&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </div>
+</div>
+
+
+
+
 
 
