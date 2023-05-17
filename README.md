@@ -14,14 +14,6 @@
 <a href="https://linkedin.com/in/rodneyleiestrada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodneyleiestrada" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hirajya&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
-    <td><img src="https://github-readme-stats-nvz5.vercel.app/api/top-langs/?username=hirajya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
-
 
 
 
