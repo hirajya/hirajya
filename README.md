@@ -7,7 +7,7 @@
         <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="20px" height="20px" alt="python" style="vertical-align: middle;"> 
         I'm part of <a href="https://python.ph/">Python Philippines</a> as a Core-Volunteer (Kaizend)
     </li>
-    <li>🌱 I’m currently learning <strong>everything about Computer Science especially in Machine Learning!</strong></li>
+    <li>🌱 I’m currently learning <strong>everything about Computer Science</strong></li>
     <li>📫 How to reach me <strong>rodneyestrada2425@gmail.com</strong></li>
 </ul>
 
